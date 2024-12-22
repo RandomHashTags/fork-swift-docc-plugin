@@ -7,3 +7,4 @@ DerivedData/
 .swiftpm
 /gh-pages
 Package.resolved
+.vscode
